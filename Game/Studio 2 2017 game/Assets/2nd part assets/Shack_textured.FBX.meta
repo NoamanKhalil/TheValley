@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: b9fa3208b9dae4594ae2dd4527854908
+timeCreated: 1502009467
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bed Frame
+    100002: Blanket
+    100004: Book1
+    100006: Book1_paper
+    100008: Book2
+    100010: Book3
+    100012: Book3Paper
+    100014: Carpet
+    100016: Chair
+    100018: Chair cushion
+    100020: Chimney
+    100022: desk
+    100024: desk drawer handle
+    100026: Door
+    100028: door frame
+    100030: door frame inside
+    100032: Door handle inside
+    100034: Door Handle outside
+    100036: Fence thing
+    100038: Fireplace
+    100040: Fireplace inside
+    100042: floor
+    100044: Glass
+    100046: Lamp
+    100048: Mattress
+    100050: Object004
+    100052: Object005
+    100054: Object006
+    100056: Object007
+    100058: Object008
+    100060: Object009
+    100062: Pillow
+    100064: Roof
+    100066: Shack Base
+    100068: //RootNode
+    100070: wall plugs
+    100072: walls
+    100074: Window Frames
+    100076: Window frames001
+    100078: wire thing
+    400000: Bed Frame
+    400002: Blanket
+    400004: Book1
+    400006: Book1_paper
+    400008: Book2
+    400010: Book3
+    400012: Book3Paper
+    400014: Carpet
+    400016: Chair
+    400018: Chair cushion
+    400020: Chimney
+    400022: desk
+    400024: desk drawer handle
+    400026: Door
+    400028: door frame
+    400030: door frame inside
+    400032: Door handle inside
+    400034: Door Handle outside
+    400036: Fence thing
+    400038: Fireplace
+    400040: Fireplace inside
+    400042: floor
+    400044: Glass
+    400046: Lamp
+    400048: Mattress
+    400050: Object004
+    400052: Object005
+    400054: Object006
+    400056: Object007
+    400058: Object008
+    400060: Object009
+    400062: Pillow
+    400064: Roof
+    400066: Shack Base
+    400068: //RootNode
+    400070: wall plugs
+    400072: walls
+    400074: Window Frames
+    400076: Window frames001
+    400078: wire thing
+    2300000: Bed Frame
+    2300002: Blanket
+    2300004: Book1
+    2300006: Book1_paper
+    2300008: Book2
+    2300010: Book3
+    2300012: Carpet
+    2300014: Chair
+    2300016: Chair cushion
+    2300018: Chimney
+    2300020: desk
+    2300022: desk drawer handle
+    2300024: Door
+    2300026: door frame
+    2300028: door frame inside
+    2300030: Door handle inside
+    2300032: Door Handle outside
+    2300034: Fence thing
+    2300036: Fireplace
+    2300038: Fireplace inside
+    2300040: floor
+    2300042: Glass
+    2300044: Lamp
+    2300046: Mattress
+    2300048: Object004
+    2300050: Object005
+    2300052: Object006
+    2300054: Object007
+    2300056: Object008
+    2300058: Object009
+    2300060: Pillow
+    2300062: Roof
+    2300064: Shack Base
+    2300066: wall plugs
+    2300068: walls
+    2300070: Window Frames
+    2300072: Window frames001
+    2300074: wire thing
+    3300000: Bed Frame
+    3300002: Blanket
+    3300004: Book1
+    3300006: Book1_paper
+    3300008: Book2
+    3300010: Book3
+    3300012: Carpet
+    3300014: Chair
+    3300016: Chair cushion
+    3300018: Chimney
+    3300020: desk
+    3300022: desk drawer handle
+    3300024: Door
+    3300026: door frame
+    3300028: door frame inside
+    3300030: Door handle inside
+    3300032: Door Handle outside
+    3300034: Fence thing
+    3300036: Fireplace
+    3300038: Fireplace inside
+    3300040: floor
+    3300042: Glass
+    3300044: Lamp
+    3300046: Mattress
+    3300048: Object004
+    3300050: Object005
+    3300052: Object006
+    3300054: Object007
+    3300056: Object008
+    3300058: Object009
+    3300060: Pillow
+    3300062: Roof
+    3300064: Shack Base
+    3300066: wall plugs
+    3300068: walls
+    3300070: Window Frames
+    3300072: Window frames001
+    3300074: wire thing
+    4300000: Roof
+    4300002: Fireplace
+    4300004: Door Handle outside
+    4300006: Chimney
+    4300008: Object007
+    4300010: Door
+    4300012: Door handle inside
+    4300014: Object004
+    4300016: Lamp
+    4300018: wall plugs
+    4300020: wire thing
+    4300022: desk
+    4300024: desk drawer handle
+    4300026: Chair
+    4300028: Chair cushion
+    4300030: Object008
+    4300032: Carpet
+    4300034: Fireplace inside
+    4300036: Book3
+    4300038: Book2
+    4300040: Book1
+    4300042: Book1_paper
+    4300044: floor
+    4300046: door frame
+    4300048: Blanket
+    4300050: Pillow
+    4300052: Mattress
+    4300054: Bed Frame
+    4300056: door frame inside
+    4300058: Object009
+    4300060: Shack Base
+    4300062: Window Frames
+    4300064: walls
+    4300066: Object005
+    4300068: Glass
+    4300070: Window frames001
+    4300072: Fence thing
+    4300074: Object006
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

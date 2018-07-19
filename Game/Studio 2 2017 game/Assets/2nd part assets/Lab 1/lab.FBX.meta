@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: d6c5f0fac7f434e8f8b6e8702a63d082
+timeCreated: 1502904802
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' wall shelves'
+    100002: beaker -  thin long
+    100004: beaker type - ball bottom
+    100006: beaker type - cylinder like
+    100008: beaker type - wide bottom, thin top
+    100010: beaker type - wide bottom1
+    100012: beaker type - wide bottom2
+    100014: beakers
+    100016: big closed book cover on small table
+    100018: big open book on long table
+    100020: big open book paper on long table
+    100022: book cover of closed book on floor
+    100024: book cover of small book on top on small table
+    100026: bottom book cover on closed book on long table
+    100028: bottom book in stack on long table
+    100030: bottom book on small table
+    100032: 'bottom open book paper on floor '
+    100034: bottom open bottom book next to open book
+    100036: bowls
+    100038: box
+    100040: box 004
+    100042: box 2
+    100044: box 3
+    100046: Box001
+    100048: box4
+    100050: boxes
+    100052: burette stand
+    100054: burette stick part
+    100056: ceiling
+    100058: ceiling lights
+    100060: chair
+    100062: chair cushion part
+    100064: chair handles
+    100066: chair seat
+    100068: chair wheels
+    100070: closed book on floor
+    100072: closed book paper
+    100074: counter base
+    100076: counter doors
+    100078: counter drawers
+    100080: counter top
+    100082: door frame
+    100084: door handles
+    100086: door0
+    100088: drawer handles
+    100090: faucet
+    100092: floor
+    100094: fridge
+    100096: gas tank 1
+    100098: gas tank 2
+    100100: gas tank 3 wide
+    100102: gas tank 4
+    100104: gas tank 5
+    100106: gas tanks nobs
+    100108: //RootNode
+    100110: middle book coverin stack on long table
+    100112: middle book in stack on long table
+    100114: open book on small table
+    100116: open book paper on small table
+    100118: open book paper under small table
+    100120: open book under small table
+    100122: outer wall lining
+    100124: Sauce packet
+    100126: Sauce packet001
+    100128: Sauce packet002
+    100130: Sauce packet003
+    100132: Sauce packet004
+    100134: sink
+    100136: small open book on long table
+    100138: small open book paper on long table
+    100140: standing shelves
+    100142: tables
+    100144: top book cover in stack on long table
+    100146: top book in stack on long table
+    100148: top book on small table
+    100150: top open book on floor
+    100152: top open book paper on floor
+    100154: top wall shelves handles
+    100156: wall shelves doors
+    100158: walls
+    100160: wide gas tank front part
+    100162: window frames
+    100164: window glass
+    400000: ' wall shelves'
+    400002: beaker -  thin long
+    400004: beaker type - ball bottom
+    400006: beaker type - cylinder like
+    400008: beaker type - wide bottom, thin top
+    400010: beaker type - wide bottom1
+    400012: beaker type - wide bottom2
+    400014: beakers
+    400016: big closed book cover on small table
+    400018: big open book on long table
+    400020: big open book paper on long table
+    400022: book cover of closed book on floor
+    400024: book cover of small book on top on small table
+    400026: bottom book cover on closed book on long table
+    400028: bottom book in stack on long table
+    400030: bottom book on small table
+    400032: 'bottom open book paper on floor '
+    400034: bottom open bottom book next to open book
+    400036: bowls
+    400038: box
+    400040: box 004
+    400042: box 2
+    400044: box 3
+    400046: Box001
+    400048: box4
+    400050: boxes
+    400052: burette stand
+    400054: burette stick part
+    400056: ceiling
+    400058: ceiling lights
+    400060: chair
+    400062: chair cushion part
+    400064: chair handles
+    400066: chair seat
+    400068: chair wheels
+    400070: closed book on floor
+    400072: closed book paper
+    400074: counter base
+    400076: counter doors
+    400078: counter drawers
+    400080: counter top
+    400082: door frame
+    400084: door handles
+    400086: door0
+    400088: drawer handles
+    400090: faucet
+    400092: floor
+    400094: fridge
+    400096: gas tank 1
+    400098: gas tank 2
+    400100: gas tank 3 wide
+    400102: gas tank 4
+    400104: gas tank 5
+    400106: gas tanks nobs
+    400108: //RootNode
+    400110: middle book coverin stack on long table
+    400112: middle book in stack on long table
+    400114: open book on small table
+    400116: open book paper on small table
+    400118: open book paper under small table
+    400120: open book under small table
+    400122: outer wall lining
+    400124: Sauce packet
+    400126: Sauce packet001
+    400128: Sauce packet002
+    400130: Sauce packet003
+    400132: Sauce packet004
+    400134: sink
+    400136: small open book on long table
+    400138: small open book paper on long table
+    400140: standing shelves
+    400142: tables
+    400144: top book cover in stack on long table
+    400146: top book in stack on long table
+    400148: top book on small table
+    400150: top open book on floor
+    400152: top open book paper on floor
+    400154: top wall shelves handles
+    400156: wall shelves doors
+    400158: walls
+    400160: wide gas tank front part
+    400162: window frames
+    400164: window glass
+    2300000: ' wall shelves'
+    2300002: beaker -  thin long
+    2300004: beaker type - ball bottom
+    2300006: beaker type - cylinder like
+    2300008: beaker type - wide bottom, thin top
+    2300010: beaker type - wide bottom1
+    2300012: beaker type - wide bottom2
+    2300014: big closed book cover on small table
+    2300016: big open book on long table
+    2300018: big open book paper on long table
+    2300020: book cover of closed book on floor
+    2300022: book cover of small book on top on small table
+    2300024: bottom book cover on closed book on long table
+    2300026: bottom book in stack on long table
+    2300028: bottom book on small table
+    2300030: 'bottom open book paper on floor '
+    2300032: bottom open bottom book next to open book
+    2300034: bowls
+    2300036: box
+    2300038: box 004
+    2300040: box 2
+    2300042: box 3
+    2300044: Box001
+    2300046: box4
+    2300048: boxes
+    2300050: burette stand
+    2300052: burette stick part
+    2300054: ceiling
+    2300056: ceiling lights
+    2300058: chair
+    2300060: chair cushion part
+    2300062: chair handles
+    2300064: chair seat
+    2300066: chair wheels
+    2300068: closed book on floor
+    2300070: closed book paper
+    2300072: counter base
+    2300074: counter doors
+    2300076: counter drawers
+    2300078: counter top
+    2300080: door frame
+    2300082: door handles
+    2300084: door0
+    2300086: drawer handles
+    2300088: faucet
+    2300090: floor
+    2300092: fridge
+    2300094: gas tank 1
+    2300096: gas tank 2
+    2300098: gas tank 3 wide
+    2300100: gas tank 4
+    2300102: gas tank 5
+    2300104: gas tanks nobs
+    2300106: middle book coverin stack on long table
+    2300108: middle book in stack on long table
+    2300110: open book on small table
+    2300112: open book paper on small table
+    2300114: open book paper under small table
+    2300116: open book under small table
+    2300118: outer wall lining
+    2300120: Sauce packet
+    2300122: Sauce packet001
+    2300124: Sauce packet002
+    2300126: Sauce packet003
+    2300128: Sauce packet004
+    2300130: sink
+    2300132: small open book on long table
+    2300134: small open book paper on long table
+    2300136: standing shelves
+    2300138: tables
+    2300140: top book cover in stack on long table
+    2300142: top book in stack on long table
+    2300144: top book on small table
+    2300146: top open book on floor
+    2300148: top open book paper on floor
+    2300150: top wall shelves handles
+    2300152: wall shelves doors
+    2300154: walls
+    2300156: wide gas tank front part
+    2300158: window frames
+    2300160: window glass
+    3300000: ' wall shelves'
+    3300002: beaker -  thin long
+    3300004: beaker type - ball bottom
+    3300006: beaker type - cylinder like
+    3300008: beaker type - wide bottom, thin top
+    3300010: beaker type - wide bottom1
+    3300012: beaker type - wide bottom2
+    3300014: big closed book cover on small table
+    3300016: big open book on long table
+    3300018: big open book paper on long table
+    3300020: book cover of closed book on floor
+    3300022: book cover of small book on top on small table
+    3300024: bottom book cover on closed book on long table
+    3300026: bottom book in stack on long table
+    3300028: bottom book on small table
+    3300030: 'bottom open book paper on floor '
+    3300032: bottom open bottom book next to open book
+    3300034: bowls
+    3300036: box
+    3300038: box 004
+    3300040: box 2
+    3300042: box 3
+    3300044: Box001
+    3300046: box4
+    3300048: boxes
+    3300050: burette stand
+    3300052: burette stick part
+    3300054: ceiling
+    3300056: ceiling lights
+    3300058: chair
+    3300060: chair cushion part
+    3300062: chair handles
+    3300064: chair seat
+    3300066: chair wheels
+    3300068: closed book on floor
+    3300070: closed book paper
+    3300072: counter base
+    3300074: counter doors
+    3300076: counter drawers
+    3300078: counter top
+    3300080: door frame
+    3300082: door handles
+    3300084: door0
+    3300086: drawer handles
+    3300088: faucet
+    3300090: floor
+    3300092: fridge
+    3300094: gas tank 1
+    3300096: gas tank 2
+    3300098: gas tank 3 wide
+    3300100: gas tank 4
+    3300102: gas tank 5
+    3300104: gas tanks nobs
+    3300106: middle book coverin stack on long table
+    3300108: middle book in stack on long table
+    3300110: open book on small table
+    3300112: open book paper on small table
+    3300114: open book paper under small table
+    3300116: open book under small table
+    3300118: outer wall lining
+    3300120: Sauce packet
+    3300122: Sauce packet001
+    3300124: Sauce packet002
+    3300126: Sauce packet003
+    3300128: Sauce packet004
+    3300130: sink
+    3300132: small open book on long table
+    3300134: small open book paper on long table
+    3300136: standing shelves
+    3300138: tables
+    3300140: top book cover in stack on long table
+    3300142: top book in stack on long table
+    3300144: top book on small table
+    3300146: top open book on floor
+    3300148: top open book paper on floor
+    3300150: top wall shelves handles
+    3300152: wall shelves doors
+    3300154: walls
+    3300156: wide gas tank front part
+    3300158: window frames
+    3300160: window glass
+    4300000: gas tank 5
+    4300002: chair
+    4300004: counter drawers
+    4300006: faucet
+    4300008: standing shelves
+    4300010: tables
+    4300012: counter base
+    4300014: ceiling
+    4300016: floor
+    4300018: door frame
+    4300020: window frames
+    4300022: ' wall shelves'
+    4300024: fridge
+    4300026: 'bottom open book paper on floor '
+    4300028: boxes
+    4300030: window glass
+    4300032: ceiling lights
+    4300034: outer wall lining
+    4300036: walls
+    4300038: door0
+    4300040: door handles
+    4300042: burette stand
+    4300044: counter doors
+    4300046: drawer handles
+    4300048: top wall shelves handles
+    4300050: burette stick part
+    4300052: chair cushion part
+    4300054: chair handles
+    4300056: chair seat
+    4300058: chair wheels
+    4300060: wall shelves doors
+    4300062: Sauce packet
+    4300064: gas tank 1
+    4300066: gas tanks nobs
+    4300068: gas tank 2
+    4300070: gas tank 3 wide
+    4300072: gas tank 4
+    4300074: wide gas tank front part
+    4300076: sink
+    4300078: counter top
+    4300080: Sauce packet001
+    4300082: Sauce packet002
+    4300084: Sauce packet003
+    4300086: Sauce packet004
+    4300088: book cover of small book on top on small table
+    4300090: top book on small table
+    4300092: bottom book on small table
+    4300094: open book on small table
+    4300096: closed book on floor
+    4300098: bottom open bottom book next to open book
+    4300100: top open book on floor
+    4300102: bottom book in stack on long table
+    4300104: middle book in stack on long table
+    4300106: top book in stack on long table
+    4300108: small open book on long table
+    4300110: big open book on long table
+    4300112: open book under small table
+    4300114: closed book paper
+    4300116: open book paper on small table
+    4300118: open book paper under small table
+    4300120: top open book paper on floor
+    4300122: big open book paper on long table
+    4300124: small open book paper on long table
+    4300126: big closed book cover on small table
+    4300128: book cover of closed book on floor
+    4300130: bottom book cover on closed book on long table
+    4300132: middle book coverin stack on long table
+    4300134: top book cover in stack on long table
+    4300136: beaker type - wide bottom1
+    4300138: beaker type - ball bottom
+    4300140: beaker type - wide bottom2
+    4300142: bowls
+    4300144: beaker type - cylinder like
+    4300146: beaker type - wide bottom, thin top
+    4300148: beaker -  thin long
+    4300150: box
+    4300152: box 2
+    4300154: box 3
+    4300156: box 004
+    4300158: box4
+    4300160: Box001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

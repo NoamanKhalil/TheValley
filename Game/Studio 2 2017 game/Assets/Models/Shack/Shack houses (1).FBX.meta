@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 710dce27503444baa8d9303004cec9f5
+timeCreated: 1498986296
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bed
+    100002: bed
+    100004: Bed base
+    100006: bed head
+    100008: bed leg1
+    100010: bed leg2
+    100012: bed leg3
+    100014: bed leg4
+    100016: Box001
+    100018: Box002
+    100020: Chair
+    100022: Chair 1
+    100024: Chair leg1
+    100026: Chair leg2
+    100028: Chair leg3
+    100030: Chair leg4
+    100032: Door
+    100034: Door 1
+    100036: Door base
+    100038: Door wall
+    100040: Floor
+    100042: floor
+    100044: Floor base
+    100046: Floor base1
+    100048: Floor base2
+    100050: Floor base3
+    100052: pilar1
+    100054: pilar2
+    100056: pilar3
+    100058: pilar4
+    100060: pilar5
+    100062: pilar6
+    100064: pilar7
+    100066: Plane001
+    100068: Roof
+    100070: roof Sphere
+    100072: Roof1
+    100074: roof2
+    100076: Shack house1
+    100078: Shack House3
+    100080: //RootNode
+    100082: Shask house2
+    100084: Side pilar1
+    100086: Side pilar10
+    100088: Side pilar2
+    100090: Side pilar3
+    100092: Side pilar4
+    100094: Side pilar5
+    100096: Side pilar6
+    100098: Side pilar7
+    100100: Side pilar8
+    100102: Side pilar9
+    100104: Table
+    100106: table leg002
+    100108: table leg003
+    100110: table leg004
+    100112: table leg005
+    100114: table leg006
+    100116: table leg1
+    100118: Tin shack house
+    100120: Top pilar1
+    100122: Top pilar2
+    100124: Top pilar3
+    100126: Top pilar4
+    100128: Top pilar5
+    100130: Top pilar6
+    100132: Top pilar7
+    100134: Top pilar8
+    100136: underfloor pilar1
+    100138: underfloor pilar10
+    100140: underfloor pilar11
+    100142: underfloor pilar12
+    100144: underfloor pilar2
+    100146: underfloor pilar3
+    100148: underfloor pilar4
+    100150: underfloor pilar5
+    100152: underfloor pilar6
+    100154: underfloor pilar7
+    100156: underfloor pilar8
+    100158: underfloor pilar9
+    100160: wall
+    100162: wall1
+    100164: wall2
+    100166: wall3
+    100168: Wall4
+    100170: window wall1
+    100172: window wall2
+    100174: Window1
+    100176: window1
+    100178: Window1  base
+    100180: window2
+    100182: window2 1
+    100184: window2 base
+    400000: Bed
+    400002: bed
+    400004: Bed base
+    400006: bed head
+    400008: bed leg1
+    400010: bed leg2
+    400012: bed leg3
+    400014: bed leg4
+    400016: Box001
+    400018: Box002
+    400020: Chair
+    400022: Chair 1
+    400024: Chair leg1
+    400026: Chair leg2
+    400028: Chair leg3
+    400030: Chair leg4
+    400032: Door
+    400034: Door 1
+    400036: Door base
+    400038: Door wall
+    400040: Floor
+    400042: floor
+    400044: Floor base
+    400046: Floor base1
+    400048: Floor base2
+    400050: Floor base3
+    400052: pilar1
+    400054: pilar2
+    400056: pilar3
+    400058: pilar4
+    400060: pilar5
+    400062: pilar6
+    400064: pilar7
+    400066: Plane001
+    400068: Roof
+    400070: roof Sphere
+    400072: Roof1
+    400074: roof2
+    400076: Shack house1
+    400078: Shack House3
+    400080: //RootNode
+    400082: Shask house2
+    400084: Side pilar1
+    400086: Side pilar10
+    400088: Side pilar2
+    400090: Side pilar3
+    400092: Side pilar4
+    400094: Side pilar5
+    400096: Side pilar6
+    400098: Side pilar7
+    400100: Side pilar8
+    400102: Side pilar9
+    400104: Table
+    400106: table leg002
+    400108: table leg003
+    400110: table leg004
+    400112: table leg005
+    400114: table leg006
+    400116: table leg1
+    400118: Tin shack house
+    400120: Top pilar1
+    400122: Top pilar2
+    400124: Top pilar3
+    400126: Top pilar4
+    400128: Top pilar5
+    400130: Top pilar6
+    400132: Top pilar7
+    400134: Top pilar8
+    400136: underfloor pilar1
+    400138: underfloor pilar10
+    400140: underfloor pilar11
+    400142: underfloor pilar12
+    400144: underfloor pilar2
+    400146: underfloor pilar3
+    400148: underfloor pilar4
+    400150: underfloor pilar5
+    400152: underfloor pilar6
+    400154: underfloor pilar7
+    400156: underfloor pilar8
+    400158: underfloor pilar9
+    400160: wall
+    400162: wall1
+    400164: wall2
+    400166: wall3
+    400168: Wall4
+    400170: window wall1
+    400172: window wall2
+    400174: Window1
+    400176: window1
+    400178: Window1  base
+    400180: window2
+    400182: window2 1
+    400184: window2 base
+    2300000: bed
+    2300002: Bed base
+    2300004: bed head
+    2300006: bed leg1
+    2300008: bed leg2
+    2300010: bed leg3
+    2300012: bed leg4
+    2300014: Box001
+    2300016: Box002
+    2300018: Chair 1
+    2300020: Chair leg1
+    2300022: Chair leg2
+    2300024: Chair leg3
+    2300026: Chair leg4
+    2300028: Door
+    2300030: Door 1
+    2300032: Door base
+    2300034: Door wall
+    2300036: Floor
+    2300038: floor
+    2300040: Floor base
+    2300042: Floor base1
+    2300044: Floor base2
+    2300046: Floor base3
+    2300048: pilar1
+    2300050: pilar2
+    2300052: pilar3
+    2300054: pilar4
+    2300056: pilar5
+    2300058: pilar6
+    2300060: pilar7
+    2300062: Plane001
+    2300064: Roof
+    2300066: roof Sphere
+    2300068: Roof1
+    2300070: roof2
+    2300072: Side pilar1
+    2300074: Side pilar10
+    2300076: Side pilar2
+    2300078: Side pilar3
+    2300080: Side pilar4
+    2300082: Side pilar5
+    2300084: Side pilar6
+    2300086: Side pilar7
+    2300088: Side pilar8
+    2300090: Side pilar9
+    2300092: table leg002
+    2300094: table leg003
+    2300096: table leg004
+    2300098: table leg005
+    2300100: table leg006
+    2300102: table leg1
+    2300104: Tin shack house
+    2300106: Top pilar1
+    2300108: Top pilar2
+    2300110: Top pilar3
+    2300112: Top pilar4
+    2300114: Top pilar5
+    2300116: Top pilar6
+    2300118: Top pilar7
+    2300120: Top pilar8
+    2300122: underfloor pilar1
+    2300124: underfloor pilar10
+    2300126: underfloor pilar11
+    2300128: underfloor pilar12
+    2300130: underfloor pilar2
+    2300132: underfloor pilar3
+    2300134: underfloor pilar4
+    2300136: underfloor pilar5
+    2300138: underfloor pilar6
+    2300140: underfloor pilar7
+    2300142: underfloor pilar8
+    2300144: underfloor pilar9
+    2300146: wall
+    2300148: wall1
+    2300150: wall2
+    2300152: wall3
+    2300154: Wall4
+    2300156: window wall1
+    2300158: window wall2
+    2300160: Window1
+    2300162: window1
+    2300164: Window1  base
+    2300166: window2
+    2300168: window2 1
+    2300170: window2 base
+    3300000: bed
+    3300002: Bed base
+    3300004: bed head
+    3300006: bed leg1
+    3300008: bed leg2
+    3300010: bed leg3
+    3300012: bed leg4
+    3300014: Box001
+    3300016: Box002
+    3300018: Chair 1
+    3300020: Chair leg1
+    3300022: Chair leg2
+    3300024: Chair leg3
+    3300026: Chair leg4
+    3300028: Door
+    3300030: Door 1
+    3300032: Door base
+    3300034: Door wall
+    3300036: Floor
+    3300038: floor
+    3300040: Floor base
+    3300042: Floor base1
+    3300044: Floor base2
+    3300046: Floor base3
+    3300048: pilar1
+    3300050: pilar2
+    3300052: pilar3
+    3300054: pilar4
+    3300056: pilar5
+    3300058: pilar6
+    3300060: pilar7
+    3300062: Plane001
+    3300064: Roof
+    3300066: roof Sphere
+    3300068: Roof1
+    3300070: roof2
+    3300072: Side pilar1
+    3300074: Side pilar10
+    3300076: Side pilar2
+    3300078: Side pilar3
+    3300080: Side pilar4
+    3300082: Side pilar5
+    3300084: Side pilar6
+    3300086: Side pilar7
+    3300088: Side pilar8
+    3300090: Side pilar9
+    3300092: table leg002
+    3300094: table leg003
+    3300096: table leg004
+    3300098: table leg005
+    3300100: table leg006
+    3300102: table leg1
+    3300104: Tin shack house
+    3300106: Top pilar1
+    3300108: Top pilar2
+    3300110: Top pilar3
+    3300112: Top pilar4
+    3300114: Top pilar5
+    3300116: Top pilar6
+    3300118: Top pilar7
+    3300120: Top pilar8
+    3300122: underfloor pilar1
+    3300124: underfloor pilar10
+    3300126: underfloor pilar11
+    3300128: underfloor pilar12
+    3300130: underfloor pilar2
+    3300132: underfloor pilar3
+    3300134: underfloor pilar4
+    3300136: underfloor pilar5
+    3300138: underfloor pilar6
+    3300140: underfloor pilar7
+    3300142: underfloor pilar8
+    3300144: underfloor pilar9
+    3300146: wall
+    3300148: wall1
+    3300150: wall2
+    3300152: wall3
+    3300154: Wall4
+    3300156: window wall1
+    3300158: window wall2
+    3300160: Window1
+    3300162: window1
+    3300164: Window1  base
+    3300166: window2
+    3300168: window2 1
+    3300170: window2 base
+    4300000: floor
+    4300002: roof Sphere
+    4300004: Floor base1
+    4300006: wall
+    4300008: Roof
+    4300010: Floor base3
+    4300012: Floor base2
+    4300014: pilar5
+    4300016: underfloor pilar1
+    4300018: roof2
+    4300020: underfloor pilar7
+    4300022: underfloor pilar2
+    4300024: underfloor pilar3
+    4300026: underfloor pilar10
+    4300028: underfloor pilar12
+    4300030: underfloor pilar5
+    4300032: Floor
+    4300034: underfloor pilar11
+    4300036: underfloor pilar6
+    4300038: underfloor pilar4
+    4300040: underfloor pilar8
+    4300042: underfloor pilar9
+    4300044: Floor base
+    4300046: pilar4
+    4300048: wall3
+    4300050: Door wall
+    4300052: Window1
+    4300054: pilar6
+    4300056: wall1
+    4300058: pilar3
+    4300060: Window1  base
+    4300062: pilar1
+    4300064: Roof1
+    4300066: pilar2
+    4300068: pilar7
+    4300070: Door base
+    4300072: window wall2
+    4300074: window2
+    4300076: window2 base
+    4300078: Wall4
+    4300080: window wall1
+    4300082: wall2
+    4300084: Door
+    4300086: Top pilar6
+    4300088: Top pilar5
+    4300090: Side pilar3
+    4300092: Side pilar4
+    4300094: Top pilar3
+    4300096: Top pilar4
+    4300098: Top pilar2
+    4300100: window1
+    4300102: Top pilar1
+    4300104: Top pilar7
+    4300106: Top pilar8
+    4300108: Side pilar10
+    4300110: window2
+    4300112: Side pilar1
+    4300114: Side pilar2
+    4300116: Side pilar6
+    4300118: Tin shack house
+    4300120: Side pilar8
+    4300122: Side pilar9
+    4300124: Side pilar7
+    4300126: Side pilar5
+    4300128: Door
+    4300130: Box001
+    4300132: Bed base
+    4300134: bed
+    4300136: bed leg2
+    4300138: Plane001
+    4300140: bed leg1
+    4300142: bed leg3
+    4300144: bed head
+    4300146: bed leg4
+    4300148: table leg004
+    4300150: Box002
+    4300152: table leg002
+    4300154: table leg1
+    4300156: table leg006
+    4300158: table leg005
+    4300160: table leg003
+    4300162: Chair leg3
+    4300164: Chair leg1
+    4300166: Chair leg4
+    4300168: Chair leg2
+    4300170: Chair
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
